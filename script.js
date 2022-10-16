@@ -1,0 +1,7 @@
+const notaDo = document.querySelector('.nota-musical-do')
+const notaRe = document.querySelector('.nota-musical-re')
+const notaMi = document.querySelector('.nota-musical-mi')
+const notaFa = document.querySelector('.nota-musical-fa')
+const notaSol = document.querySelector('.nota-musical-sol')
+const notaLa = document.querySelector('.nota-musical-la')
+const notaSi = document.querySelector('.nota-musical-si')
